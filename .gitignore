@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+*.mdb
+*.mdb-lock
+.env
+.venv/
+result
+result-*
