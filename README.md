@@ -147,3 +147,25 @@ This replica targets software-level compatibility with the Sinara hardware ecosy
 ## License
 
 Developed for research purposes at C-DAC Noida. ARTIQ itself is licensed under LGPL-3.0 by M-Labs Ltd.
+
+---
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{nasirali_artiq_sinara_replica,
+  author    = {Nasir Ali},
+  title     = {Artiq Sinara Replica},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/nasir26/Artiq-Sinara_Replica},
+  note      = {Centre for Development of Advanced Computing (C-DAC), Noida, India}
+}
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.\
+© 2026 Nasir Ali, C-DAC Noida. All rights reserved.
